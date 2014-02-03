@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/39/trunk/Trab01/src/componentes/modelo/sombreamento
+END
+SombreamentoHorizontalVariavel.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/11/trunk/Trab01/src/componentes/modelo/sombreamento/SombreamentoHorizontalVariavel.java
+END
+SombreamentoDiagonalPositivaVariavel.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/39/trunk/Trab01/src/componentes/modelo/sombreamento/SombreamentoDiagonalPositivaVariavel.java
+END
+SombreamentoDiagonalNegativaVariavel.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/39/trunk/Trab01/src/componentes/modelo/sombreamento/SombreamentoDiagonalNegativaVariavel.java
+END
+SombreamentoBarra.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/27/trunk/Trab01/src/componentes/modelo/sombreamento/SombreamentoBarra.java
+END
+SombreamentoVerticalConstante.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/17/trunk/Trab01/src/componentes/modelo/sombreamento/SombreamentoVerticalConstante.java
+END
+SombreamentoPontualBarra.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/39/trunk/Trab01/src/componentes/modelo/sombreamento/SombreamentoPontualBarra.java
+END
+SombreamentoRadial.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/31/trunk/Trab01/src/componentes/modelo/sombreamento/SombreamentoRadial.java
+END
+SombreamentoPizza.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/27/trunk/Trab01/src/componentes/modelo/sombreamento/SombreamentoPizza.java
+END
+SombreamentoPontualPizza.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/36/trunk/Trab01/src/componentes/modelo/sombreamento/SombreamentoPontualPizza.java
+END
+SombreamentoVerticalVariavel.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/11/trunk/Trab01/src/componentes/modelo/sombreamento/SombreamentoVerticalVariavel.java
+END
+SombreamentoCircular.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/31/trunk/Trab01/src/componentes/modelo/sombreamento/SombreamentoCircular.java
+END
+SombreamentoHorizontalConstante.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/10/trunk/Trab01/src/componentes/modelo/sombreamento/SombreamentoHorizontalConstante.java
+END
+SombreamentoDiagonalPositivaConstante.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/30/trunk/Trab01/src/componentes/modelo/sombreamento/SombreamentoDiagonalPositivaConstante.java
+END
+SombreamentoDiagonalNegativaConstante.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/39/trunk/Trab01/src/componentes/modelo/sombreamento/SombreamentoDiagonalNegativaConstante.java
+END
+Sombreamento.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/27/trunk/Trab01/src/componentes/modelo/sombreamento/Sombreamento.java
+END

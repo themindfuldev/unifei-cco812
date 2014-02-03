@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/40/trunk/Trab01/src/componentes/modelo/formas
+END
+Ponto.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/36/trunk/Trab01/src/componentes/modelo/formas/Ponto.java
+END
+Circunferencia.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/17/trunk/Trab01/src/componentes/modelo/formas/Circunferencia.java
+END
+Operacoes.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/17/trunk/Trab01/src/componentes/modelo/formas/Operacoes.java
+END
+Retangulo.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/39/trunk/Trab01/src/componentes/modelo/formas/Retangulo.java
+END
+Segmento.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/40/trunk/Trab01/src/componentes/modelo/formas/Segmento.java
+END
+FormaDesenhavel.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/17/trunk/Trab01/src/componentes/modelo/formas/FormaDesenhavel.java
+END
+RetanguloCelula.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/39/trunk/Trab01/src/componentes/modelo/formas/RetanguloCelula.java
+END
+PoligonoRegular.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/40/trunk/Trab01/src/componentes/modelo/formas/PoligonoRegular.java
+END
+FormaPlotavel.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/17/trunk/Trab01/src/componentes/modelo/formas/FormaPlotavel.java
+END
+Figura.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/17/trunk/Trab01/src/componentes/modelo/formas/Figura.java
+END
+ArcoDeCircunferencia.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/18/trunk/Trab01/src/componentes/modelo/formas/ArcoDeCircunferencia.java
+END
